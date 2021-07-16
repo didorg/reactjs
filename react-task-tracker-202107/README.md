@@ -28,7 +28,9 @@ npm run server
 npm run build
 ```
 
-### Install `serve` to deploy locally
-`sudo npm i -g serve` (Basic http server)   
-`serve -s build -p 8000`
+### Install & `serve` to deploy locally  
 
+```
+sudo npm i -g serve   #(Basic http server)   
+serve -s build -p 8000
+```

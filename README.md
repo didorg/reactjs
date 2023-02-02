@@ -1,7 +1,7 @@
-# React (reactjs) Projects, Courses, Exercises & Examples.  
+# React (reactjs) Projects, Courses, Exercises & Examples.
 
-## Inside each folder   
- 
+## Inside each folder
+
 ### Install dependencies
 
 ```
@@ -20,10 +20,13 @@ npm start
 npm run build
 ```
 
-### Install & `serve` to deploy locally  
+### Install & `serve` to deploy locally
 
 ```
-sudo npm i -g serve     #(Basic http server)   
+sudo npm i -g serve     #(Basic http server)
 serve -s build -p xxxx  #(port)
 ```
 
+#### All Projects
+
+[Projects Site](https://react-projects.netlify.app/)
